@@ -4,6 +4,12 @@
 #### USN, Kongsberg
 
 
+Provides direct and practical overview of Agile Methods with Specific Focus on SCRUM to provide pointers for Certification (Professional Scrum Master). 
+
+## Course content
+This course provides a practical overview of Agile methods by starting with the Agile Manifesto and leading the participants into the details of Agile practices. With specific focus on SCRUM, this introductory course presents agile practices of Story cards, Walls, Scrum Team formation and Daily stand-ups.
+
+
 You can use the [editor on GitHub](https://github.com/Aurilla/big-data/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
