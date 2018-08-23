@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Fundamentals of Agile Projects with Scrum Workshop 
+### By Dr. Bhuvan Unhelkar
+### Tuesday 2nd October 2018,  09h10 – 15h00
+#### USN, Kongsberg
+
 
 You can use the [editor on GitHub](https://github.com/Aurilla/big-data/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
