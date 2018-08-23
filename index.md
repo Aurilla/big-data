@@ -68,6 +68,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
+![agile practice](https://user-images.githubusercontent.com/42648853/44541962-e0098800-a70b-11e8-8885-1a693e7a6eac.jpg)
+
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aurilla/big-data/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
